@@ -18,3 +18,5 @@ if (!$success) {
 
 header('Location: index.php');
 ?>
+
+<!-- Create,Read,Update,Delete = CRUDシステム -->
